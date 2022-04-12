@@ -1,0 +1,25 @@
+goods = {
+  "Apple": {
+    "name": "Статуя лошади",
+    "cost": 5000,
+    "description": "Вкуснейшие яблочки",
+    "order": 1,
+    "img": "apple.png"
+  },
+
+  "Pineapple": {
+    "name": "Крокодил",
+    "cost": 4999,
+    "description": "Спелый большой ананас",
+    "order": 2,
+    "img": "pineapple.png"
+  },
+
+  "Grape": {
+    "name": "Статуя собаки",
+    "cost": 5800,
+    "description": "Виноград с лучших плантаций",
+    "order": 3,
+    "img": "grape.png"
+  },
+}

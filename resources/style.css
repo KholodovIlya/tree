@@ -20,7 +20,7 @@ button:active {
 button {
   box-shadow: 0 2vw #9D331F;
   border: none;
-  cursor: pointer;
+  //cursor: pointer;
   background-color: #500805;
   border: 5px solid #BC6D4F;
   transform: translateY(-1vw);
